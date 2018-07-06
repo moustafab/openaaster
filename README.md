@@ -1,6 +1,6 @@
 # openfaaster
 
-a sample function as a service app using (OpenFaas)[https://docs.openfaas.com/]
+a sample function as a service app using [OpenFaas](https://docs.openfaas.com/)
 
 ## dependencies
 
